@@ -1,0 +1,93 @@
+{
+    "nav_privacy": "Política de Privacidade",
+    "nav_terms": "Termos de Uso",
+    
+    "privacy_title": "Política de Privacidade",
+    "privacy_last_update": "Última atualização: 13 de janeiro de 2026",
+    
+    "privacy_warning_title": "AVISO IMPORTANTE",
+    "privacy_warning_text": "A SamGrowthLabs é uma holding estratégica. O EducaFinance e todos os serviços oferecidos fazem parte de um ecossistema educacional. Não somos consultoria, assessoria financeira, corretora de valores ou qualquer serviço de recomendação de investimentos. Não garantimos ganhos ou resultados financeiros. Todas as decisões financeiras são de responsabilidade exclusiva do usuário.",
+    
+    "section1_title": "1. Informações Gerais",
+    "section1_text": "A SamGrowthLabs, responsável pela plataforma educacional EducaFinance, valoriza a privacidade de seus usuários e está comprometida com a proteção de dados pessoais. Esta Política de Privacidade descreve, de forma clara e objetiva, como os dados são coletados, utilizados, armazenados e protegidos, em conformidade com a Lei Geral de Proteção de Dados (LGPD – Lei nº 13.709/2018).",
+    
+    "section2_title": "2. Dados Coletados",
+    "section2_text1": "Coletamos apenas os dados estritamente necessários para identificação do aluno e fornecimento dos serviços educacionais:",
+    "section2_item1": "Nome completo",
+    "section2_item2": "CPF (Cadastro de Pessoa Física)",
+    "section2_item3": "Número de telefone com WhatsApp",
+    "section2_text2": "Não coletamos dados de localização, cookies de rastreamento, dados de navegação, informações de dispositivos ou quaisquer outros dados além dos listados acima.",
+    
+    "section3_title": "3. Finalidade do Uso dos Dados",
+    "section3_text": "Os dados pessoais são utilizados exclusivamente para:",
+    "section3_item1": "Identificação e registro do aluno",
+    "section3_item2": "Comunicação direta via WhatsApp para envio de conteúdos, avisos e suporte",
+    "section3_item3": "Organização interna e controle de acesso aos serviços",
+    "section3_item4": "Envio de benefícios educacionais e materiais complementares",
+    
+    "section4_title": "4. Compartilhamento de Dados",
+    "section4_text1": "A SamGrowthLabs não compartilha, vende, aluga, transfere ou comercializa dados pessoais com terceiros.",
+    "section4_text2": "Os dados não são utilizados para:",
+    "section4_item1": "Anúncios externos",
+    "section4_item2": "Parcerias comerciais",
+    "section4_item3": "Marketing de terceiros",
+    "section4_item4": "Análises comportamentais externas",
+    
+    "section5_title": "5. Direitos do Titular",
+    "section5_text1": "Nos termos da LGPD, o usuário tem direito a:",
+    "section5_item1": "Confirmar a existência do tratamento de dados",
+    "section5_item2": "Acessar seus dados pessoais",
+    "section5_item3": "Solicitar correção ou atualização",
+    "section5_item4": "Solicitar a exclusão total de seus dados",
+    "section5_text2": "Solicitações devem ser feitas pelo e-mail:",
+    "section5_email": "privacidade@samgrowthlabs.com.br",
+    
+    "section6_title": "6. Armazenamento e Retenção",
+    "section6_text": "Os dados são armazenados apenas pelo tempo necessário para cumprir as finalidades educacionais ou até que o titular solicite sua exclusão, respeitando obrigações legais aplicáveis.",
+    
+    "section7_title": "7. Segurança das Informações",
+    "section7_text": "Adotamos medidas técnicas e organizacionais para proteger os dados pessoais contra acessos não autorizados, perdas, alterações ou divulgações indevidas.",
+    
+    "section8_title": "8. Autorizações e Responsabilidades",
+    "section8_text": "Ao solicitar qualquer serviço, o usuário autoriza o contato via WhatsApp para fins educacionais. O usuário declara que fornece informações verdadeiras e assume total responsabilidade por suas decisões financeiras.",
+    
+    "section9_title": "9. Disposições Finais",
+    "section9_text": "Esta política pode ser atualizada a qualquer momento. A versão vigente estará sempre disponível neste endereço.",
+    
+    "footer_company": "SamGrowthLabs – Holding Estratégica",
+    "footer_note1": "Conteúdo educacional. Não constitui recomendação financeira.",
+    "footer_note2": "Decisões financeiras são de responsabilidade exclusiva do usuário.",
+    "footer_copyright": "Todos os direitos reservados.",
+    
+    "terms_title": "Termos de Uso",
+    "terms_last_update": "Última atualização: 13 de janeiro de 2026",
+    
+    "terms_section1_title": "1. Aceitação dos Termos",
+    "terms_section1_text": "Ao acessar ou utilizar qualquer serviço da SamGrowthLabs, o usuário declara que leu, compreendeu e concorda integralmente com estes Termos de Uso.",
+    
+    "terms_section2_title": "2. Natureza dos Serviços",
+    "terms_section2_text": "Todos os serviços oferecidos pela SamGrowthLabs, incluindo o EducaFinance, possuem caráter exclusivamente educacional. Não prestamos consultoria financeira, assessoria de investimentos ou recomendações personalizadas.",
+    
+    "terms_section3_title": "3. Ausência de Garantias",
+    "terms_section3_text": "A SamGrowthLabs não garante ganhos, lucros ou resultados financeiros. O aprendizado ocorre ao longo do tempo e depende do esforço individual do usuário. Toda decisão financeira é de responsabilidade exclusiva do usuário.",
+    
+    "terms_section4_title": "4. Responsabilidades do Usuário",
+    "terms_section4_text": "O usuário se compromete a:",
+    "terms_section4_item1": "Fornecer informações verdadeiras",
+    "terms_section4_item2": "Utilizar os conteúdos de forma ética e legal",
+    "terms_section4_item3": "Não reproduzir, revender ou distribuir os conteúdos sem autorização",
+    
+    "terms_section5_title": "5. Propriedade Intelectual",
+    "terms_section5_text": "Todos os conteúdos disponibilizados pertencem à SamGrowthLabs e são protegidos por leis de direitos autorais. O uso indevido poderá resultar em medidas legais.",
+    
+    "terms_section6_title": "6. Limitação de Responsabilidade",
+    "terms_section6_text": "A SamGrowthLabs não se responsabiliza por decisões, perdas ou danos decorrentes do uso das informações educacionais fornecidas.",
+    
+    "terms_section7_title": "7. Modificações",
+    "terms_section7_text": "Os Termos de Uso podem ser alterados a qualquer momento. O uso contínuo dos serviços após alterações implica concordância com os novos termos.",
+    
+    "terms_section8_title": "8. Legislação Aplicável",
+    "terms_section8_text": "Estes termos são regidos pelas leis da República Federativa do Brasil.",
+    
+    "terms_footer_note": "Conteúdo educacional. Não constitui recomendação financeira."
+}

@@ -1,0 +1,93 @@
+{
+    "nav_privacy": "Politique de Confidentialité",
+    "nav_terms": "Conditions d'Utilisation",
+    
+    "privacy_title": "Politique de Confidentialité",
+    "privacy_last_update": "Dernière mise à jour : 13 janvier 2026",
+    
+    "privacy_warning_title": "AVIS IMPORTANT",
+    "privacy_warning_text": "SamGrowthLabs est une holding stratégique. EducaFinance et tous les services offerts font partie d'un écosystème éducatif. Nous ne sommes pas un cabinet de conseil, un conseiller en investissements, un courtier en valeurs mobilières ou tout service de recommandation d'investissement. Nous ne garantissons pas les gains ou les résultats financiers. Toutes les décisions financières relèvent de la responsabilité exclusive de l'utilisateur.",
+    
+    "section1_title": "1. Informations Générales",
+    "section1_text": "SamGrowthLabs, responsable de la plateforme éducative EducaFinance, valorise la confidentialité de ses utilisateurs et s'engage à protéger les données personnelles. Cette Politique de Confidentialité décrit, de manière claire et objective, comment les données sont collectées, utilisées, stockées et protégées, conformément à la Loi Générale sur la Protection des Données (LGPD – Loi n° 13.709/2018).",
+    
+    "section2_title": "2. Données Collectées",
+    "section2_text1": "Nous ne collectons que les données strictement nécessaires à l'identification de l'élève et à la fourniture des services éducatifs :",
+    "section2_item1": "Nom complet",
+    "section2_item2": "CPF (Registre des Personnes Physiques)",
+    "section2_item3": "Numéro de téléphone avec WhatsApp",
+    "section2_text2": "Nous ne collectons pas de données de localisation, de cookies de suivi, de données de navigation, d'informations sur les appareils ou toute autre donnée au-delà de celles listées ci-dessus.",
+    
+    "section3_title": "3. Finalité de l'Utilisation des Données",
+    "section3_text": "Les données personnelles sont utilisées exclusivement pour :",
+    "section3_item1": "Identification et enregistrement de l'élève",
+    "section3_item2": "Communication directe via WhatsApp pour l'envoi de contenus, d'avis et de support",
+    "section3_item3": "Organisation interne et contrôle d'accès aux services",
+    "section3_item4": "Envoi d'avantages éducatifs et de matériels complémentaires",
+    
+    "section4_title": "4. Partage des Données",
+    "section4_text1": "SamGrowthLabs ne partage, ne vend, ne loue, ne transfère ni ne commercialise les données personnelles avec des tiers.",
+    "section4_text2": "Les données ne sont pas utilisées pour :",
+    "section4_item1": "Publicités externes",
+    "section4_item2": "Partenariats commerciaux",
+    "section4_item3": "Marketing de tiers",
+    "section4_item4": "Analyses comportementales externes",
+    
+    "section5_title": "5. Droits du Titulaire",
+    "section5_text1": "Conformément à la LGPD, l'utilisateur a le droit de :",
+    "section5_item1": "Confirmer l'existence du traitement des données",
+    "section5_item2": "Accéder à ses données personnelles",
+    "section5_item3": "Demander la correction ou la mise à jour",
+    "section5_item4": "Demander la suppression totale de ses données",
+    "section5_text2": "Les demandes doivent être faites par e-mail :",
+    "section5_email": "privacidade@samgrowthlabs.com.br",
+    
+    "section6_title": "6. Stockage et Conservation",
+    "section6_text": "Les données sont stockées uniquement pendant le temps nécessaire pour remplir les finalités éducatives ou jusqu'à ce que le titulaire demande leur suppression, dans le respect des obligations légales applicables.",
+    
+    "section7_title": "7. Sécurité des Informations",
+    "section7_text": "Nous adoptons des mesures techniques et organisationnelles pour protéger les données personnelles contre les accès non autorisés, les pertes, les modifications ou les divulgations inappropriées.",
+    
+    "section8_title": "8. Autorisations et Responsabilités",
+    "section8_text": "En demandant tout service, l'utilisateur autorise le contact via WhatsApp à des fins éducatives. L'utilisateur déclare fournir des informations véridiques et assume l'entière responsabilité de ses décisions financières.",
+    
+    "section9_title": "9. Dispositions Finales",
+    "section9_text": "Cette politique peut être mise à jour à tout moment. La version en vigueur sera toujours disponible à cette adresse.",
+    
+    "footer_company": "SamGrowthLabs – Holding Stratégique",
+    "footer_note1": "Contenu éducatif. Ne constitue pas une recommandation financière.",
+    "footer_note2": "Les décisions financières relèvent de la responsabilité exclusive de l'utilisateur.",
+    "footer_copyright": "Tous droits réservés.",
+    
+    "terms_title": "Conditions d'Utilisation",
+    "terms_last_update": "Dernière mise à jour : 13 janvier 2026",
+    
+    "terms_section1_title": "1. Acceptation des Conditions",
+    "terms_section1_text": "En accédant ou en utilisant tout service de SamGrowthLabs, l'utilisateur déclare avoir lu, compris et accepté intégralement ces Conditions d'Utilisation.",
+    
+    "terms_section2_title": "2. Nature des Services",
+    "terms_section2_text": "Tous les services offerts par SamGrowthLabs, y compris EducaFinance, ont un caractère exclusivement éducatif. Nous ne fournissons pas de conseil financier, de conseil en investissements ou de recommandations personnalisées.",
+    
+    "terms_section3_title": "3. Absence de Garanties",
+    "terms_section3_text": "SamGrowthLabs ne garantit pas les gains, les profits ou les résultats financiers. L'apprentissage se fait dans le temps et dépend de l'effort individuel de l'utilisateur. Toute décision financière relève de la responsabilité exclusive de l'utilisateur.",
+    
+    "terms_section4_title": "4. Responsabilités de l'Utilisateur",
+    "terms_section4_text": "L'utilisateur s'engage à :",
+    "terms_section4_item1": "Fournir des informations véridiques",
+    "terms_section4_item2": "Utiliser les contenus de manière éthique et légale",
+    "terms_section4_item3": "Ne pas reproduire, revendre ou distribuer les contenus sans autorisation",
+    
+    "terms_section5_title": "5. Propriété Intellectuelle",
+    "terms_section5_text": "Tous les contenus mis à disposition appartiennent à SamGrowthLabs et sont protégés par les lois sur le droit d'auteur. Une utilisation abusive pourra entraîner des mesures légales.",
+    
+    "terms_section6_title": "6. Limitation de Responsabilité",
+    "terms_section6_text": "SamGrowthLabs n'est pas responsable des décisions, pertes ou dommages résultant de l'utilisation des informations éducatives fournies.",
+    
+    "terms_section7_title": "7. Modifications",
+    "terms_section7_text": "Les Conditions d'Utilisation peuvent être modifiées à tout moment. L'utilisation continue des services après modifications implique l'acceptation des nouvelles conditions.",
+    
+    "terms_section8_title": "8. Législation Applicable",
+    "terms_section8_text": "Ces conditions sont régies par les lois de la République Fédérative du Brésil.",
+    
+    "terms_footer_note": "Contenu éducatif. Ne constitue pas une recommandation financière."
+}
