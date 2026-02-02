@@ -14,7 +14,7 @@
     "section2_title": "2. Dados Coletados",
     "section2_text1": "Coletamos apenas os dados estritamente necessários para identificação do aluno e fornecimento dos serviços educacionais:",
     "section2_item1": "Nome completo",
-    "section2_item2": "CPF (Cadastro de Pessoa Física)",
+    "section2_item2": "Email",
     "section2_item3": "Número de telefone com WhatsApp",
     "section2_text2": "Não coletamos dados de localização, cookies de rastreamento, dados de navegação, informações de dispositivos ou quaisquer outros dados além dos listados acima.",
     
@@ -40,7 +40,7 @@
     "section5_item3": "Solicitar correção ou atualização",
     "section5_item4": "Solicitar a exclusão total de seus dados",
     "section5_text2": "Solicitações devem ser feitas pelo e-mail:",
-    "section5_email": "privacidade@samgrowthlabs.com.br",
+    "section5_email": "contato@samgrowthlabs.com",
     
     "section6_title": "6. Armazenamento e Retenção",
     "section6_text": "Os dados são armazenados apenas pelo tempo necessário para cumprir as finalidades educacionais ou até que o titular solicite sua exclusão, respeitando obrigações legais aplicáveis.",

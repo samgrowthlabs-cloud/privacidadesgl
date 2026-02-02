@@ -14,7 +14,7 @@
     "section2_title": "2. Données Collectées",
     "section2_text1": "Nous ne collectons que les données strictement nécessaires à l'identification de l'élève et à la fourniture des services éducatifs :",
     "section2_item1": "Nom complet",
-    "section2_item2": "CPF (Registre des Personnes Physiques)",
+    "section2_item2": "Email",
     "section2_item3": "Numéro de téléphone avec WhatsApp",
     "section2_text2": "Nous ne collectons pas de données de localisation, de cookies de suivi, de données de navigation, d'informations sur les appareils ou toute autre donnée au-delà de celles listées ci-dessus.",
     
@@ -40,7 +40,7 @@
     "section5_item3": "Demander la correction ou la mise à jour",
     "section5_item4": "Demander la suppression totale de ses données",
     "section5_text2": "Les demandes doivent être faites par e-mail :",
-    "section5_email": "privacidade@samgrowthlabs.com.br",
+    "section5_email": "contato@samgrowthlabs.com",
     
     "section6_title": "6. Stockage et Conservation",
     "section6_text": "Les données sont stockées uniquement pendant le temps nécessaire pour remplir les finalités éducatives ou jusqu'à ce que le titulaire demande leur suppression, dans le respect des obligations légales applicables.",
